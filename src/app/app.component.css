@@ -1,7 +1,10 @@
 .dashboard {
     width: 100%;
-    background-color: rgb(46, 240, 133);
-    color: white;
-    padding: 6%;
-    text-align: center;
+    background-color: white;
+    color: black;
+    height: 800px;
+}
+.martrust-header {
+    padding-left: 30px;
+    padding-top: 25px;
 }
